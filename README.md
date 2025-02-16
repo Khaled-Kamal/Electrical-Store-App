@@ -1,4 +1,4 @@
-# Electrical store mobile app - Flutter.
+# Electrical store mobile app - Flutter
 
 An Electrical store that displays products, consisting of a main page containing the products. When you click on each product, it goes to the product details page.
 
